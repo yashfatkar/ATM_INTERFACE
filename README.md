@@ -75,29 +75,6 @@ This project was developed using the following tools and technologies:
 
 ---
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the project repository to your GitHub account.
-
-2. Create a new branch for your contributions:
-
-   ```bash
-   git checkout -b feature/your-feature-name
-
-
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your forked repository:
-
-   ```
-   git push origin feature/your-feature-name
-
-5. Open a pull request (PR) from your branch to the main project repository's branch.
-6. Provide a clear and detailed description of your changes in the PR.
-7. Your PR will be reviewed, and any necessary feedback or adjustments will be discussed.
-8. Once your PR is approved, it will be merged into the main project.
-
 #### <span style="color: green;">Thank you for contributing to this project!</span>
 
 
